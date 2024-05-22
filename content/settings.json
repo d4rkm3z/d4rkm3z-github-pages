@@ -2,5 +2,6 @@
   "metadata": {
     "title": "Поиск слова",
     "description": "Поиск решения для игры \"Найди слово\""
-  }
+  },
+  "defaultTheme": "light"
 }
