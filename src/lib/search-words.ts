@@ -48,8 +48,6 @@ function searchWord(data: SearchInputData) {
     return acc;
   }, []);
 
-  console.log({ result, data });
-
   return result;
 }
 
